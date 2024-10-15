@@ -1,2 +1,7 @@
 # Road-Evaluation-by-Desire-Path-Simulation-System-RED-PaSS-
 A prototype system designed to assess the alignment of urban sidewalks with pedestrians' natural movement patterns.
+
+This is a research work by Lei Ma at the University of Gävle. This system was developed using Dash by Plotly in Python.
+
+About this model:
+RED-PaSS simulates pedestrian movement to generate an optimal desire path system, representing the most direct and natural routes that pedestrians would choose in urban settings. The model compares existing sidewalks against these simulated desire paths using key metrics, including road patch distances, segment alignment with desire paths, and origin-destination (OD) flow efficiency. This approach enables urban planners to identify and address gaps in pedestrian infrastructure effectively.By identifying discrepancies between existing sidewalks and optimal pedestrian pathways, RED-PaSS provides actionable insights for designing more walkable urban environments and can potentially serve as a valuable tool for urban planners seeking to enhance urban road systems. This work contributes to urban planning by offering a method to improve pedestrian network efficiency, aligning infrastructure with actual pedestrian natural movement behaviours, and emphasizing the need for integrating organic pedestrian movements into formal road network designs to create more functional and walkable cities.
